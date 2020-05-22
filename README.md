@@ -25,6 +25,8 @@ The application is a Spring Boot application and has been packaged using Docker.
 
 In the application home directory:
 
+./mvnw package
+
 docker build -t truelayer/pokemons .
 
 docker run -p 8080:8080 -t truelayer/pokemons
