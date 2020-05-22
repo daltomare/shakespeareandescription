@@ -19,7 +19,7 @@ A REST controller (GetShakespeareanDescriptionController)  handles the REST requ
 
 The GetShakespeareanDescriptionTest in the integration package, tests the integration of the use case across the layers.
 
-The application is a Spring boot application and has been packaged using Docker.
+The application is a Spring Boot application and has been packaged using Docker.
 
 ### How to run the application
 
